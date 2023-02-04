@@ -197,4 +197,5 @@ public class PlayerMovement : MonoBehaviour
     void EndJumping(){
         animationPlayer.SetBool("Jumping", false);
     }
+    
 }
